@@ -1,0 +1,33 @@
+{
+  "name": "codescriptpro",
+  "version": "1.0.2",
+  "description": "codescriptpro",
+  "type": "module",
+  "main": "codescriptpro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/winansqg2007/codescriptpro"
+  },
+  "website": "https://github.com/winansqg2007/codescriptpro.git",
+  "keywords": [
+    "codescriptpro"
+  ],
+  "author": "winansqg2007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winansqg2007/codescriptpro/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/winansqg2007/codescriptpro#readme",
+  "dependencies": {
+    "devcraftsensei": "1.0.2",
+    "programcodecraft": "1.0.2",
+    "codecraftsage": "1.0.2"
+  }
+}
